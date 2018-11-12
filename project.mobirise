@@ -712,6 +712,9 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "B": {
+              "color": "#e1b534"
             }
           },
           "_name": "slider1",
@@ -731,7 +734,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-1280x720.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -741,84 +744,12 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b>Открытие сайта \"MIX-MusicX\"</b>",
+                "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Добро пожаловать на сайт \"MIX-MusicX\". На данном сайте вы можете найти любую музыку на свой вкус. Всю музыку на сайте можно сулшать в реальном времени и скачивать себе на компьютер/телефон. Подробнее о сайте \"MIX-MusicX\" вы можете узнать нажам на кнопку \"О сайте\", которая находится в правом вернем углу.",
+                "text": "<i><b>Добро пожаловать на сайт \"MIX-MusicX\". На данном сайте вы можете найти любую музыку на свой вкус. Всю музыку на сайте можно сулшать в реальном времени и скачивать себе на компьютер/телефон. Подробнее о сайте \"MIX-MusicX\" вы можете узнать нажам на кнопку \"О сайте\", которая находится в правом вернем углу.</b></i>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ДЛЯ MAC</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#232323"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "ВИДЕО СЛАЙД",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Слайд с фоновым изображением YouTube и цветным наложением. Заголовок и текст выровнены влево.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "СЛАЙДЕР ИЗОБРАЖЕНИЙ",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Выберите из большого выбора последние готовые блоки - легкий, гибкий компонент, большое изображение веб-баннера, прокрутку с эффектом параллакса, видео фоны, гамбургер меню, прикрепленный заголовок и многое другое.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "<b>Открытие сайта \"MIX-MusicX\"</b>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Добро пожаловать на сайт \"MIX-MusicX\". На данном сайте вы можете найти любую музыку на свой вкус. Всю музыку на сайте можно сулшать в реальном времени и скачивать себе на компьютер/телефон. Подробнее о сайте \"MIX-MusicX\" вы можете узнать нажам на кнопку \"О сайте\", которая находится в правом вернем углу.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ДЛЯ MAC</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#232323"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "<b>Открытие сайта \"MIX-MusicX\"</b>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Добро пожаловать на сайт \"MIX-MusicX\". На данном сайте вы можете найти любую музыку на свой вкус. Всю музыку на сайте можно сулшать в реальном времени и скачивать себе на компьютер/телефон. Подробнее о сайте \"MIX-MusicX\" вы можете узнать нажам на кнопку \"О сайте\", которая находится в правом вернем углу.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ДЛЯ MAC</a>",
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "1",
                 "overlayColor": "#232323"
               }
             ]

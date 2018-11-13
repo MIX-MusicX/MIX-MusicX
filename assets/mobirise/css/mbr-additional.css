@@ -35,10 +35,10 @@ body {
 }
 .display-4 {
   font-family: 'Russo One', sans-serif;
-  font-size: 4.2rem;
+  font-size: 4rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 6.72rem;
+  font-size: 6.4rem;
 }
 .display-5 {
   font-family: 'Russo One', sans-serif;
@@ -71,9 +71,9 @@ body {
     line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 3.36rem;
-    font-size: calc( 2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.2rem;
+    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 0.96rem;
